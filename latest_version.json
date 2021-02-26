@@ -2,6 +2,7 @@
 	"main":
 	{
 		"version": "0.2.1",
+		"internalVersion": 3,
 		"description": "",
 		"url": ""
 	},
@@ -9,6 +10,7 @@
 	"defaultData":
 	{
 		"version": "0.2.0",
+		"internalVersion": 2,
 		"description": "",
 		"url": ""
 	}
