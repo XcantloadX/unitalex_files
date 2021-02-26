@@ -1,0 +1,17 @@
+{
+	"baseUrl": "http://api.qwq123.top/get/lanzous.php?url=",
+	"file": 
+    [
+        {
+			"version": "0.2.0,0.2.1",
+			"name": "default_0.2.0.zip",
+			"lanzous": "https://wwa.lanzous.com/iUCfrm70qxi"
+		},
+		{
+			"version": "0.1.0,0.1.1",
+			"name": "default_0.1.0.zip",
+			"lanzous": "https://wwa.lanzous.com/iuGgym70qza"
+		}
+	]
+
+}
