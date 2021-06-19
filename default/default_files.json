@@ -1,16 +1,21 @@
 {
-	"baseUrl": "http://api.qwq123.top/get/lanzou.php?type=down&url=",
+	"baseUrl": "https://unitalex-1255317563.cos.ap-nanjing.myqcloud.com/default_files/",
 	"file": 
     [
         {
-			"version": "0.2.0,0.2.1,0.2.1.1",
+            "version": "0.2.1,0.2.1.1",
+            "name": "default_0.2.1.zip",
+			"url": "default_0.2.1.zip"
+        },
+        {
+			"version": "0.2.0",
 			"name": "default_0.2.0.zip",
-			"url": "https://www.lanzous.com/iUCfrm70qxi"
+			"url": "default_0.2.0.zip"
 		},
 		{
 			"version": "0.1.0,0.1.1",
 			"name": "default_0.1.0.zip",
-			"url": "https://www.lanzous.com/iuGgym70qza"
+			"url": "default_0.1.0.zip"
 		}
 	]
 
